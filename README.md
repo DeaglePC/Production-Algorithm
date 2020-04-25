@@ -9,7 +9,14 @@
 │   │   └── lru.h
 │   └── src  # 演示，测试
 │       └── lru_demo.cpp   
-└── go
+└─go
+    ├─algorithm  # 实现文件
+    │  ├─kmp
+    │  └─shuffle
+    └─example  # 示例，可以是一个小程序
+        ├─kmp
+        └─shuffle
+
 
 ```
 
